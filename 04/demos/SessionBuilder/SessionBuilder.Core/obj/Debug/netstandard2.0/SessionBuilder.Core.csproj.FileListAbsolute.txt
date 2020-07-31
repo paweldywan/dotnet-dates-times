@@ -1,0 +1,8 @@
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\bin\Debug\netstandard2.0\SessionBuilder.Core.deps.json
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\bin\Debug\netstandard2.0\SessionBuilder.Core.dll
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\bin\Debug\netstandard2.0\SessionBuilder.Core.pdb
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\obj\Debug\netstandard2.0\SessionBuilder.Core.AssemblyInfoInputs.cache
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\obj\Debug\netstandard2.0\SessionBuilder.Core.AssemblyInfo.cs
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\obj\Debug\netstandard2.0\SessionBuilder.Core.csproj.CoreCompileInputs.cache
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\obj\Debug\netstandard2.0\SessionBuilder.Core.dll
+D:\Downloads\dotnet-dates-times\04\demos\SessionBuilder\SessionBuilder.Core\obj\Debug\netstandard2.0\SessionBuilder.Core.pdb
