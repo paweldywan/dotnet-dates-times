@@ -31,7 +31,7 @@ namespace SessionBuilder.Web
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            var connection = @"Server=.\SQLEXPRESS;Database=SessionBuilder;Trusted_Connection=True;ConnectRetryCount=0";
+            var connection = @"Server=.\SQLEXPRESSS;Database=SessionBuilder;Trusted_Connection=True;ConnectRetryCount=0";
 
             services.AddDbContext<SessionBuilderContext>(options => options.UseSqlServer(connection));
 
